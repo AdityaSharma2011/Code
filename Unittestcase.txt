@@ -1,7 +1,7 @@
 Input
 =====
 
-input.csv file path
+input.csv file path as an arguement
 
 Output
 ======
