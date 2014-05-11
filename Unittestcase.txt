@@ -1,0 +1,21 @@
+Input
+=====
+
+input.csv file path
+
+Output
+======
+CompanyA has maximum share vaule 1333.0 in Aug1993
+CompanyB has maximum share vaule 1095.0 in Sep2008
+CompanyC has maximum share vaule 2912.0 in Oct2008
+ComanyD has maximum share vaule 3598.0 in Aug2008
+Company E has maximum share vaule 4405.5 in Aug2008
+ComanyF has maximum share vaule 5284.5 in Aug2008
+ComanyG has maximum share vaule 6232.1 in Oct2008
+ComanyH has maximum share vaule 7120.9 in Oct2008
+ComanyI has maximum share vaule 7921.5 in Aug2008
+ComanyJ has maximum share vaule 8898.5 in Oct2008
+ComanyK has maximum share vaule 9787.3 in Oct2008
+ComanyL has maximum share vaule 10676.1 in Oct2008
+ComanyM has maximum share vaule 11564.9 in Oct2008
+ComanyN has maximum share vaule 12453.7 in Oct2008
